@@ -9,7 +9,8 @@ already used leave. The leave manager has the following requirements:
     a. Leave information will be stored for each employee
     b. All employee’s leave request will be processed through the system
     c. Employees will be able to show their leave details
-In this project, you have to do the followings:
+In this project, I have done the followings:
+
     1. Store leave detail of all employees in linked list
     2. Store the information of employee’s order in queue
     3. Store the information of used leave per employee in stack
